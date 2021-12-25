@@ -1,0 +1,6 @@
+*.slxc
+*.asv
+.DS_Store
+slprj
+fig/*
+!fig/.gitkeep

@@ -4,3 +4,4 @@
 slprj
 fig/*
 !fig/.gitkeep
+*.autosave
